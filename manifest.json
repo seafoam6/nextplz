@@ -5,9 +5,6 @@
   "name": "Next PLZ",
   "description": "Move to the net page in Reddit",
   "version": "1.0",
-  "background": {
-    "scripts": ["src/background.js"]
-  },
   "content_scripts": [
     {
       "matches": [
